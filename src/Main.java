@@ -6,6 +6,6 @@ public class Main {
         System.out.println("otro canmasd");
 
         //ASAS
-
+        System.out.print("esto no tiene linea");
     }
 }
