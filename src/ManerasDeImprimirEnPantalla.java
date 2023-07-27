@@ -8,7 +8,7 @@ public class ManerasDeImprimirEnPantalla {
     public static final String ANSI_CYAN = "\u001B[36m";
     public static final String ANSI_WHITE = "\u001B[37m";
     public static final String ANSI_RESET = "\u001B[0m";
-    /**
+    /*
      * Exsplicando los distintos tipos de impresion en pantalla que hay
      * @param args
      */
