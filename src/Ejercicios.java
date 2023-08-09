@@ -47,9 +47,9 @@ public class Ejercicios {
 
         // Ejercicio 4
         /**
-         * Escribe una aplicacion que pida al usuario oque escriba dos enteros, que obtenga los numeros del usuario y
-         * muestre el más grande, seguido de las palabras "es más grande". Si son iguales imprima el mensaje
-         * "Estos números son iguales"
+         * Escribe una aplicacion que pida al usuario oque escriba dos enteros, que obtenga los numeros
+         * del usuario y muestre el más grande, seguido de las palabras "es más grande". Si son iguales
+         * imprima el mensaje "Estos números son iguales"
          */
         /*int num1, num2;
         System.out.println( "Ingresa el primer número y presiona enter" );
