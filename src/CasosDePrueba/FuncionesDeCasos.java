@@ -13,9 +13,5 @@ public class FuncionesDeCasos{
 
     }// final intervalo1
 
-    public void prueba4 (){
-        System.out.println("prueba");
-    }
-
 
 }// final FuncionesDeCasos
