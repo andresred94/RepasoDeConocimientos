@@ -6,7 +6,8 @@ public class Ejercicios {
         // Ejercicio 1
         /*int x = 2;
         int y = 3;
-
+// prueba
+//prueba
         System.out.printf( "x = %d\n", x );
         System.out.printf( "El valor de %d + %d es %d\n", x, y, ( x + y ) );
         System.out.printf( "x = %d\n",  );
