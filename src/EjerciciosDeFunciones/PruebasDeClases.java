@@ -1,6 +1,6 @@
 package EjerciciosDeFunciones;
 
-import CasosDePrueba.FuncionesDeCasos;
+import EjerciciosDeRepaso.FuncionesDeCasos;
 
 public class PruebasDeClases {
     public static void main(String[] args) {
