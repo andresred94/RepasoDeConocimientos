@@ -11,6 +11,8 @@ public class JuegoCraps {
     private static final int ONCE = 11;
     private static final int DOCE = 12;
 
+
+    // metodo que empieza el juego
     public void generarCraps() {
         int miPunto = 0;
         Estado estadoJuego;
@@ -41,7 +43,7 @@ public class JuegoCraps {
 
             if ( sumaDeDados == miPunto){
                 estadoJuego = Estado.GANO;
-            } else if ( sumaDeDados == SIETE){
+            } else if ( sumaDeDados == SIETE ){
                 estadoJuego = Estado.PIERDE;
             }// final if
         }// final While
@@ -52,6 +54,8 @@ public class JuegoCraps {
             System.out.println("El jugador pierde");
         }
     }// final metodo generarCraps
+
+
     public int tirarDados() {
         int dado1 = 1 + numalea.nextInt(6);
         int dado2 = 1 + numalea.nextInt(6);

@@ -28,7 +28,7 @@ public class NumerosAleatorios {
         int frecuencia6 = 0;
         int cara;
 
-        for (int i = 1; i < 6000000; i++) {
+        for (int i = 1; i < 11; i++) {
             cara = 1 + numalea.nextInt(6);
 
             switch (cara){
@@ -60,7 +60,7 @@ public class NumerosAleatorios {
 
     public void metodoTres(){
         Random numalea = new Random();
-        int num = 2 + 3 * numalea.nextInt(5);
+        int num = 2 + 3 * numalea.nextInt(6);
         System.out.printf("Numero aleatorio escogido de la secuencia 2,5,8,11 y 14 es: %d",num);
 
     }
